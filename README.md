@@ -6,6 +6,5 @@ Udacity Project: Recommendations with IBM
 ### [Exploratory Data Analysis]
 ### [Rank Based Recommendations]
 ### [User-User Based Collaborative Filtering]
-### [Content Based Recommendations (EXTRA - NOT REQUIRED)]
 ### [Matrix Factorization]
 ### [Extras & Concluding]
